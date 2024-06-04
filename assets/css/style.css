@@ -7,6 +7,15 @@
 body {
     background-color: #d9dcd6;
 }
+/* classes removed for all headers- 
+classes also consolidated where there were multiple
+copies of the same functions and attributes in t
+the same section
+
+This was applied to header, service, benefits and footer
+elements
+
+*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
