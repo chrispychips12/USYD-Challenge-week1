@@ -48,6 +48,7 @@ header  nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* reformatted header elements to follow parent-child rules rather than separate elements*/
 
 a {
     color: #ffffff;
@@ -103,6 +104,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* reformatted service elements to follow parent-child rules rather than separate elements*/
 
 .benefits {
     margin-right: 20px;
@@ -132,7 +134,7 @@ p {
     height: 150px;
 
 }
-
+/* reformatted benefit elements to follow parent-child rules rather than separate elements*/
 footer {
     padding: 150px;
     clear: both;
